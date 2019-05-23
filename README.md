@@ -1,4 +1,4 @@
-# jsexercises
+# js-exercises
 - Exercise JS Weekday/number
 
 - Given the number of the day of the week, return the name of the weekday. Maybe you can use a switch for this task. 
